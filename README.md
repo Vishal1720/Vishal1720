@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Vishal
-- 👀 I’m interested in ...
+- 👀 I’m interested in coding
 - 🌱 I’m currently doing BCA
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me through vishal198shetty@gmail.com
 
 <!---
 Vishal1720/Vishal1720 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
