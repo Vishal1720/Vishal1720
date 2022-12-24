@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vishal
 - 👀 I’m interested in coding
-- 🌱 I’m currently doing BCA
+- 🌱 I’m currently doing BCA  in SMC Shirva
 - 📫 Reach me through vishal198shetty@gmail.com
 
 <!---
