@@ -15,16 +15,18 @@ I'm a passionate programmer with experience in HTML, CSS, JavaScript, PHP, and J
 
 
 ## 🛠 Skills
-HTML, CSS,JS,Java,PHP...
-
-
-## Technologies I'm familiar with:
 - **Front-end**: HTML, CSS, JavaScript 
 - **Back-end**: PHP
-## Looking to
 
-- Collaborate on interesting projects
-- Learn from experienced developers
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishal1720&label=Profile%20views&color=0e75b6&style=flat" alt="vishal1720" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishal1720" alt="vishal1720" /></a> </p>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishal1720&show_icons=true&locale=en&layout=compact" alt="vishal1720" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishal1720&show_icons=true&locale=en" alt="vishal1720" /></p>
+
+
 
 
 <!---
