@@ -1,35 +1,59 @@
+# Hi, I'm Vishal 👋  
 
-# Hi, I'm Vishal! 👋
+## 🚀 About Me  
+🎓 MCA Student  
+💻 Passionate Programmer & Problem Solver  
+🏆 PGCET Rank 15 – Karnataka  
 
+I love building clean, efficient, and user-friendly applications.  
+Always curious. Always learning. Always improving.
 
-## 🚀 About Me
-I'm a passionate programmer with experience in HTML, CSS, JavaScript, PHP, and Java. I enjoy crafting clean, efficient, and user-friendly code.
+---
 
+## 🔗 Connect With Me  
 
-## 🔗 Link
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/VishalShetty17/)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Flix2u/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishal1720)
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/VishalShetty17)
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Flix2u)
+---
 
- 
+## 🛠 Tech Stack  
 
+### 💻 Frontend  
+- HTML  
+- CSS  
+- JavaScript  
+- React.js  
 
-## 🛠 Skills
-- **Front-end**: HTML, CSS, JavaScript 
-- **Back-end**: PHP
+### ⚙ Backend  
+- PHP  
+- Java  
+- Supabase  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishal1720&label=Profile%20views&color=0e75b6&style=flat" alt="vishal1720" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
- 
- <img src="https://github-profile-trophy.vercel.app/?username=vishal1720&theme=onedark&hide_border=true&locale=en&layout=compact" alt="vishal1720" /></a> </p>
+### 🗄 Database  
+- MySQL  
+- MongoDB  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishal1720&show_icons=true&locale=en&theme=synthwave" alt="vishal1720" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishal1720&show_icons=true&theme=synthwave&hide_border=true&locale=en&layout=compact" alt="vishal1720" /></p>
+---
 
+## 📊 GitHub Stats  
+![Stats](https://komarev.com/ghpvc/?username=vishal1720&label=Profile%20views&color=0e75b6&style=flat)
 
+## 🏆 Achievements  
+🥇 **PGCET Rank 15** - Karnataka  
+🥇 **1st Place** - Reverse Coding (Tech Yuva 2025)  
+🥈 **2nd Place** - Purfect Coding (Tech Yuva 2025)  
+⭐ **MCA Student** - Building real-world apps  
 
+---
 
-<!---
-Vishal1720/Vishal1720 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 👀 Profile Views  
+![Views](https://komarev.com/ghpvc/?username=vishal1720&label=Profile%20views&color=0e75b6&style=flat)
+
+## ✨ Fun Fact  
+I don't just write code — I solve problems.
+
+---
+
+⭐ If you like my work, consider giving a star!
