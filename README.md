@@ -1,4 +1,4 @@
-# Vishal Shetty 👋
+# Vishal Shetty
 
 💻 Software Developer | 🎓 MCA Student | 🚀 Competitive Programmer  
 
