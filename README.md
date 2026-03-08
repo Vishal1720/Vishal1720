@@ -1,59 +1,80 @@
-# Hi, I'm Vishal 👋  
+# Vishal Shetty 👋
 
-## 🚀 About Me  
-🎓 MCA Student  
-💻 Passionate Programmer & Problem Solver  
-🏆 PGCET Rank 15 – Karnataka  
+💻 Software Developer | 🎓 MCA Student | 🚀 Competitive Programmer  
 
-I love building clean, efficient, and user-friendly applications.  
-Always curious. Always learning. Always improving.
-
----
-
-## 🔗 Connect With Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/VishalShetty17/)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Flix2u/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishal1720)
+🌐 Portfolio: https://vishal-shetty.web.app  
+💼 LinkedIn: https://www.linkedin.com/in/VishalShetty17/  
+💻 GitHub: https://github.com/vishal1720  
+🧠 LeetCode: https://leetcode.com/Flix2u/  
 
 ---
 
-## 🛠 Tech Stack  
+## 🚀 About Me
 
-### 💻 Frontend  
+I am **Vishal Shetty**, an MCA student and passionate software developer from **Karnataka, India**.  
+I enjoy solving challenging problems, building scalable applications, and continuously learning new technologies.
+
+My interests include:
+- Software Development  
+- Competitive Programming  
+- Data Science & Problem Solving  
+- Building real-world applications  
+
+I believe in writing **clean, efficient, and user-friendly code**.
+
+---
+
+## 🏆 Achievements
+
+🥇 **PGCET Rank 15 – Karnataka**  
+🥇 **1st Place – Reverse Coding (Tech Yuva 2025)**  
+🥈 **2nd Place – Purfect Coding (Tech Yuva 2025)**  
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Frontend
 - HTML  
 - CSS  
 - JavaScript  
 - React.js  
 
-### ⚙ Backend  
-- PHP  
+### ⚙ Backend
 - Java  
+- PHP  
 - Supabase  
 
-### 🗄 Database  
+### 🗄 Database
 - MySQL  
 - MongoDB  
 
 ---
 
-## 📊 GitHub Stats  
-![Stats](https://komarev.com/ghpvc/?username=vishal1720&label=Profile%20views&color=0e75b6&style=flat)
+## 🚀 Featured Projects
 
-## 🏆 Achievements  
-🥇 **PGCET Rank 15** - Karnataka  
-🥇 **1st Place** - Reverse Coding (Tech Yuva 2025)  
-🥈 **2nd Place** - Purfect Coding (Tech Yuva 2025)  
-⭐ **MCA Student** - Building real-world apps  
+⭐ Cineverse-Movie Rating Website  
+⭐ Taskmaster-Task Manager App with Kannada toggle
 
 ---
 
-## 👀 Profile Views  
-![Views](https://komarev.com/ghpvc/?username=vishal1720&label=Profile%20views&color=0e75b6&style=flat)
+## 🎓 Education
 
-## ✨ Fun Fact  
-I don't just write code — I solve problems.
+**Master of Computer Applications (MCA)**  
+Poornaprajna Institute of Management, Udupi  
 
 ---
 
-⭐ If you like my work, consider giving a star!
+## 📊 GitHub Profile Stats
+
+![Profile Views](https://komarev.com/ghpvc/?username=vishal1720&label=Profile%20views&color=0e75b6&style=flat)
+
+---
+
+## ✨ Fun Fact
+
+I don't just write code — **I solve problems.**
+
+---
+
+⭐ If you like my work, consider giving a **star** to my repositories!
