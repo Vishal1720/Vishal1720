@@ -1,80 +1,113 @@
-# Vishal Shetty
+# 👋 Hey, I'm Vishal Shetty
 
-💻 Software Developer | 🎓 MCA Student | 🚀 Competitive Programmer  
+💻 Software Developer | 🎓 MCA Student | 🚀 Competitive Programmer
 
-🌐 Portfolio: https://vishal-shetty.web.app  
-💼 LinkedIn: https://www.linkedin.com/in/VishalShetty17/  
-💻 GitHub: https://github.com/vishal1720  
-🧠 LeetCode: https://leetcode.com/Flix2u/  
-✖️ X(Twitter):https://x.com/vishalshetty4u
+🚀 *Turning ideas into real-world applications with clean, scalable code*
+
+---
+
+## 🌐 Connect With Me
+
+🌍 Portfolio → https://vishal-shetty.web.app <br/>
+💼 LinkedIn → https://www.linkedin.com/in/VishalShetty17/ <br/>
+💻 GitHub → https://github.com/vishal1720 <br/>
+🧠 LeetCode → https://leetcode.com/Flix2u/ <br/>
+🐦 X → https://x.com/vishalshetty4u
+
 ---
 
 ## 🚀 About Me
 
-I am **Vishal Shetty**, an MCA student and passionate software developer from **Karnataka, India**.  
-I enjoy solving challenging problems, building scalable applications, and continuously learning new technologies.
+I’m an MCA student from **Karnataka, India**, passionate about building impactful software and solving real-world problems.
 
-My interests include:
-- Software Development  
-- Competitive Programming  
-- Data Science & Problem Solving  
-- Building real-world applications  
-
-I believe in writing **clean, efficient, and user-friendly code**.
+* 💡 I love turning ideas into products
+* 🧠 Strong in problem solving & competitive programming
+* ⚡ Focused on clean, efficient, and scalable code
+* 🌱 Always learning new technologies
 
 ---
 
 ## 🏆 Achievements
 
-🥇 **PGCET Rank 15 – Karnataka**  
-🥇 **1st Place – Reverse Coding (Tech Yuva 2025)**  
-🥈 **2nd Place – Purfect Coding (Tech Yuva 2025)**  
+🥇 **PGCET Rank 15 – Karnataka** <br/>
+🥇 **1st Place – Reverse Coding (Tech Yuva 2025)** <br/>
+🥈 **2nd Place – Purfect Coding (Tech Yuva 2025)**
 
 ---
 
 ## 🛠 Tech Stack
 
 ### 💻 Frontend
-- HTML  
-- CSS  
-- JavaScript  
-- React.js  
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
 
 ### ⚙ Backend
-- Java  
-- PHP  
-- Supabase  
+
+<p>
+  <img src="https://skillicons.dev/icons?i=php,supabase" />
+</p>
 
 ### 🗄 Database
-- MySQL  
-- MongoDB  
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-⭐ Cineverse-Movie Rating Website  
-⭐ Taskmaster-Task Manager App with Kannada toggle
+### 🔹 SplitMalple
+
+💡 Smart bill splitting app designed for fairness and ease
+⚡ Built with modern UI and real-world usability in mind
+
+🚀 **Live:** https://splitmalple.vercel.app/
+
+---
+
+### 🔹 Terms Samjho
+
+💡 Simplifies complex terms & conditions into human language
+🧠 Focused on accessibility and user understanding
+
+🚀 **Live:** https://termssamjho.vercel.app/
+
+---
+
+### 🔹 Cineverse
+
+💡 Movie rating and review platform
+🎬 Clean UI with structured data handling
+
+🚀 **Live:** https://cineversetv.vercel.app/homepage
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+ 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishal1720&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🎓 Education
 
-**Master of Computer Applications (MCA)**  
-Poornaprajna Institute of Management, Udupi  
-
----
-
-## 📊 GitHub Profile Stats
-
-![Profile Views](https://komarev.com/ghpvc/?username=vishal1720&label=Profile%20views&color=0e75b6&style=flat)
+🎓 **Master of Computer Applications (MCA)**
+Poornaprajna Institute of Management, Udupi
 
 ---
 
 ## ✨ Fun Fact
 
-I don't just write code — **I solve problems.**
+💬 I don’t just write code — **I build solutions that matter.**
 
 ---
 
-⭐ If you like my work, consider giving a **star** to my repositories!
+## ⭐ Support
+
+If you like my work, consider giving a ⭐ to my repositories — it means a lot!
