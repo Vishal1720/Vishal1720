@@ -6,7 +6,7 @@
 💼 LinkedIn: https://www.linkedin.com/in/VishalShetty17/  
 💻 GitHub: https://github.com/vishal1720  
 🧠 LeetCode: https://leetcode.com/Flix2u/  
-
+✖️ X(Twitter):https://x.com/vishalshetty4u
 ---
 
 ## 🚀 About Me
