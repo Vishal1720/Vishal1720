@@ -61,8 +61,8 @@ I’m an MCA student from **Karnataka, India**, passionate about building impact
 
 ### 🔹 SplitMalple
 
-💡 Smart bill splitting app designed for fairness and ease
-⚡ Built with modern UI and real-world usability in mind
+💡 Smart bill splitting app designed for fairness and ease <br/>
+⚡ Built with modern UI and real-world usability in mind <br/>
 
 🚀 **Live:** https://splitmalple.vercel.app/
 
@@ -70,8 +70,8 @@ I’m an MCA student from **Karnataka, India**, passionate about building impact
 
 ### 🔹 Terms Samjho
 
-💡 Simplifies complex terms & conditions into human language
-🧠 Focused on accessibility and user understanding
+💡 Simplifies complex terms & conditions into human language <br/>
+🧠 Focused on accessibility and user understanding <br/>
 
 🚀 **Live:** https://termssamjho.vercel.app/
 
@@ -79,10 +79,10 @@ I’m an MCA student from **Karnataka, India**, passionate about building impact
 
 ### 🔹 Cineverse
 
-💡 Movie rating and review platform
-🎬 Clean UI with structured data handling
+💡 Movie rating and review platform <br/>
+🎬 Clean UI with structured data handling <br/>
 
-🚀 **Live:** https://cineversetv.vercel.app/homepage
+🚀 **Live:** https://cineversetv.vercel.app/
 
 ---
 
