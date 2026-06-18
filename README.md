@@ -29,9 +29,9 @@ I’m an MCA student from **Karnataka, India**, passionate about building impact
 
 ## 🏆 Achievements
 
-🥇 **PGCET Rank 15 – Karnataka** <br/>
-🥇 **1st Place – Reverse Coding (Tech Yuva 2025)** <br/>
-🥈 **2nd Place – Purfect Coding (Tech Yuva 2025)**
+🥇 **PGCET Rank 15, Karnataka** <br/>
+🥇 **1st Place, Reverse Coding (Tech Yuva 2025)** <br/>
+🥈 **2nd Place, Purfect Coding (Tech Yuva 2025)**
 
 ---
 
@@ -89,7 +89,6 @@ I’m an MCA student from **Karnataka, India**, passionate about building impact
 ## 📊 GitHub Stats
 
 <p align="center">
- 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishal1720&theme=tokyonight" />
 </p>
 
@@ -104,10 +103,10 @@ Poornaprajna Institute of Management, Udupi
 
 ## ✨ Fun Fact
 
-💬 I don’t just write code — **I build solutions that matter.**
+💬 I don’t just write code. **I build solutions that matter.**
 
 ---
 
 ## ⭐ Support
 
-If you like my work, consider giving a ⭐ to my repositories — it means a lot!
+If you like my work, consider giving a ⭐ to my repositories. It means a lot!
