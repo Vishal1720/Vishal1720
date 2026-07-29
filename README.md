@@ -12,7 +12,7 @@
 💼 LinkedIn → https://www.linkedin.com/in/VishalShetty17/ <br/>
 💻 GitHub → https://github.com/vishal1720 <br/>
 🧠 LeetCode → https://leetcode.com/Flix2u/ <br/>
-🐦 X → https://x.com/vishalshetty4u
+
 
 ---
 
